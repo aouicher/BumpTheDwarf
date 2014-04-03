@@ -212,6 +212,7 @@
 		325A6FF918ED6C1B00426015 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 325A6FF818ED6C1B00426015 /* AppDelegate.m */; };
 		325A6FFC18ED6C1B00426015 /* HelloWorldScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 325A6FFB18ED6C1B00426015 /* HelloWorldScene.m */; };
 		325A6FFF18ED6C1B00426015 /* IntroScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 325A6FFE18ED6C1B00426015 /* IntroScene.m */; };
+		325A700A18ED6C8600426015 /* LevelScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 325A700918ED6C8600426015 /* LevelScene.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -653,6 +654,8 @@
 		325A6FFB18ED6C1B00426015 /* HelloWorldScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = HelloWorldScene.m; path = Classes/HelloWorldScene.m; sourceTree = "<group>"; };
 		325A6FFD18ED6C1B00426015 /* IntroScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = IntroScene.h; path = Classes/IntroScene.h; sourceTree = "<group>"; };
 		325A6FFE18ED6C1B00426015 /* IntroScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = IntroScene.m; path = Classes/IntroScene.m; sourceTree = "<group>"; };
+		325A700818ED6C8600426015 /* LevelScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LevelScene.h; path = Classes/LevelScene.h; sourceTree = "<group>"; };
+		325A700918ED6C8600426015 /* LevelScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LevelScene.m; path = Classes/LevelScene.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1546,6 +1549,8 @@
 				325A6FFB18ED6C1B00426015 /* HelloWorldScene.m */,
 				325A6FFD18ED6C1B00426015 /* IntroScene.h */,
 				325A6FFE18ED6C1B00426015 /* IntroScene.m */,
+				325A700818ED6C8600426015 /* LevelScene.h */,
+				325A700918ED6C8600426015 /* LevelScene.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -1765,6 +1770,7 @@
 				325A6EA018ED6C1900426015 /* CCColor.m in Sources */,
 				325A6EED18ED6C1900426015 /* ALChannelSource.m in Sources */,
 				325A6D9918ED6C1700426015 /* CCActionCatmullRom.m in Sources */,
+				325A700A18ED6C8600426015 /* LevelScene.m in Sources */,
 				325A6EB118ED6C1900426015 /* NSAttributedString+CCAdditions.m in Sources */,
 				325A6F7318ED6C1A00426015 /* CCBKeyframe.m in Sources */,
 				325A6F2D18ED6C1A00426015 /* CCControlTextureFactory.m in Sources */,
