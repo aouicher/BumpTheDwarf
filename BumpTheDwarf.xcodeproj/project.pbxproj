@@ -213,6 +213,7 @@
 		325A6FFC18ED6C1B00426015 /* HelloWorldScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 325A6FFB18ED6C1B00426015 /* HelloWorldScene.m */; };
 		325A6FFF18ED6C1B00426015 /* IntroScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 325A6FFE18ED6C1B00426015 /* IntroScene.m */; };
 		325A700A18ED6C8600426015 /* LevelScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 325A700918ED6C8600426015 /* LevelScene.m */; };
+		325A700D18ED6EB200426015 /* MenuLevelScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 325A700C18ED6EB200426015 /* MenuLevelScene.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -656,6 +657,8 @@
 		325A6FFE18ED6C1B00426015 /* IntroScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = IntroScene.m; path = Classes/IntroScene.m; sourceTree = "<group>"; };
 		325A700818ED6C8600426015 /* LevelScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LevelScene.h; path = Classes/LevelScene.h; sourceTree = "<group>"; };
 		325A700918ED6C8600426015 /* LevelScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LevelScene.m; path = Classes/LevelScene.m; sourceTree = "<group>"; };
+		325A700B18ED6EB200426015 /* MenuLevelScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MenuLevelScene.h; path = Classes/MenuLevelScene.h; sourceTree = "<group>"; };
+		325A700C18ED6EB200426015 /* MenuLevelScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MenuLevelScene.m; path = Classes/MenuLevelScene.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1551,6 +1554,8 @@
 				325A6FFE18ED6C1B00426015 /* IntroScene.m */,
 				325A700818ED6C8600426015 /* LevelScene.h */,
 				325A700918ED6C8600426015 /* LevelScene.m */,
+				325A700B18ED6EB200426015 /* MenuLevelScene.h */,
+				325A700C18ED6EB200426015 /* MenuLevelScene.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -1779,6 +1784,7 @@
 				325A6FF918ED6C1B00426015 /* AppDelegate.m in Sources */,
 				325A6DC918ED6C1800426015 /* CCDrawingPrimitives.m in Sources */,
 				325A6EBA18ED6C1900426015 /* TGAlib.m in Sources */,
+				325A700D18ED6EB200426015 /* MenuLevelScene.m in Sources */,
 				325A6E8618ED6C1900426015 /* UITouch+CC.m in Sources */,
 				325A6F6418ED6C1A00426015 /* utility.c in Sources */,
 				325A6EC318ED6C1900426015 /* ZipUtils.m in Sources */,
