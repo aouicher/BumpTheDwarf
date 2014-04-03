@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Levels</key>
+	<dict>
+		<key>1</key>
+		<string>|---xx-|-xx---|</string>
+		<key>2</key>
+		<string>|--xxx-|-xxx--|</string>
+		<key>3</key>
+		<string>|-xxxx-|-xxxx-|</string>
+		<key>4</key>
+		<string>|-xxxx-|-xxxx-|-xxxx-|</string>
+		<key>5</key>
+		<string>|-xxxx-|-xxxx-|-xxxx-|-xxxx-|</string>
+		<key>6</key>
+		<string>|-x--x-|-xxxx-|-xxxx-|-x--x-|</string>
+		<key>7</key>
+		<string>|---xx-|-x-xx-|-x--x-|-xx-x-|-xx---|</string>
+		<key>8</key>
+		<string>|-x-xx-|-x-xx-|-xxxx-|-xx-x-|-xx-x-|</string>
+		<key>9</key>
+		<string>|-xxxx-|-xxxx-|-xxxx-|-xxxx-|-xxxx-|</string>
+		<key>10</key>
+		<string>|-x--x-|-x--x-|-x--x-|-x--x-|-x--x-|-x--x-|</string>
+		<key>11</key>
+		<string>|--xxx-|-xxxx-|-x--x-|-x--x-|-xxxx-|-xxx--|</string>
+		<key>12</key>
+		<string>|-xxxx-|-xxxx-|-xxxx-|-xxxx-|-xxxx-|-xxxx-|</string>
+		<key>13</key>
+		<string>|-xxxx-|-xxxx-|-xxxx-|-xxxx-|-xxxx-|-xxxx-|</string>
+		<key>14</key>
+		<string>|-xxxx-|-xxxx-|-xxxx-|-xxxx-|-xxxx-|-xxxx-|</string>
+		<key>15</key>
+		<string>|xxxxxx| xxxxxx | xxxxxx|xxxxxx|xxxxxx|xxxxxx|</string>
+	</dict>
+</dict>
+</plist>
